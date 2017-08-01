@@ -1,2 +1,2 @@
 # lenenbot
-@lenbo is a Twitterbot that mashes up John Lennon and Vladimir Lenin quotes.
+@lenbo is a Twitterbot that mashes up John Lennon and Vladimir Lenin quotes. By Mark...
